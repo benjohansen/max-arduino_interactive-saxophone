@@ -1,4 +1,4 @@
-# 02-IMU-in-Arduino-to-Max_via-Xbees
+# 02-IMU-in-Arduino-through-Xbees-to-Computer
 
 This is how to hookup a BNO080 (VR IMU) to a Sparkfun Fio v3 and send data through Xbees to the computer and into Max.
 
@@ -21,7 +21,7 @@ This is how to hookup a BNO080 (VR IMU) to a Sparkfun Fio v3 and send data throu
 - Arduino Code = I used the "Example 1 - Rotation Vector" file from Sparkfun (that came with the library) but I had to change all serial functions in the code to read 'Serial1'
 - Max Code = this just gives us the five float values of a complex valued rotation vector, or quaternion
 
-![circuit](/media/02-IMU-in-Arduino-to-Max_via-Xbees.jpg)
+![circuit](/media/02-IMU-in-Arduino-through-Xbees-to-Computer.jpg)
 
 # Xbee setup
 
