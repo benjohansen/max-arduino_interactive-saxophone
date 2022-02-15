@@ -29,11 +29,10 @@ I followed [this tutorial](https://learn.sparkfun.com/tutorials/exploring-xbees-
     - I downloaded/installed XCTU v.6.5.8 MacOS X which I updated to 6.5.9 upon first launch
 3. launch XCTU and plug in the Xbee attached the Explorer USB attached to the computer
 4. <img src="/media/XCTU_add-xbee.png" width="300"> <img src="/media/XCTU_choose-usb.png" width="300">
-
-| Setting  | Acronym | XBee Node1 | XBee Node2 |
-| ------------- | ------------- | ------------- | ------------- |
-| Channel  | CH  | C | C |
-| PAN ID | ID | E557 | E557 |
-| Destination Address High | DH | 0 | 0 |
-| Destination Address Low | DL | 1 | 0 |
-| 16-bit Source Address | MY | 0 |1 |
+5.  | Setting  | Acronym | XBee Node1 | XBee Node2 |
+    | ------------- | ------------- | ------------- | ------------- |
+    | Channel  | CH  | C | C |
+    | PAN ID | ID | E557 | E557 |
+    | Destination Address High | DH | 0 | 0 |
+    | Destination Address Low | DL | 1 | 0 |
+    | 16-bit Source Address | MY | 0 |1 |
