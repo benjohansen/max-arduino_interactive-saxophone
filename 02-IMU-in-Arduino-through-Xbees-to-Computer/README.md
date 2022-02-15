@@ -30,10 +30,12 @@ I followed [this tutorial](https://learn.sparkfun.com/tutorials/exploring-xbees-
 3. launch XCTU and plug in the Xbee attached the Explorer USB attached to the computer
 4. <img src="/media/XCTU_add-xbee.png" width="300">
 5. <img src="/media/XCTU_choose-usb.png" width="300">
-6. | Setting  | Acronym | XBee Node1 | XBee Node2 |
-   | ------------- | ------------- | ------------- | ------------- |
-   | Channel  | CH  | C | C |
-   | PAN ID | ID | E557 | E557 |
-   | Destination Address High | DH | 0 | 0 |
-   | Destination Address Low | DL | 1 | 0 |
-   | 16-bit Source Address | MY | 0 |1 |
+6. I had to update the firmware on the Xbee first
+7. then change the following settings:
+    | Setting  | Acronym | XBee Node1 | XBee Node2 |
+    | ------------- | ------------- | ------------- | ------------- |
+    | Channel  | CH  | C | C |
+    | PAN ID | ID | E557 | E557 |
+    | Destination Address High | DH | 0 | 0 |
+    | Destination Address Low | DL | 1 | 0 |
+    | 16-bit Source Address | MY | 0 |1 |
