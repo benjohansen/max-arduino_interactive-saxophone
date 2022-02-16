@@ -7,5 +7,4 @@ This is a documentation of hardware and software developments of my augmented in
 
 Here's photo of my first improvisation with the setup: I used a great deal of pedals (hooked to Arduinos), a MIDI Fighter Twister, and the always awesome [Metric Halo](https://mhsecure.com/metric_halo/home.html) ULN-8. Below that is a photo of the jSax with the BNO080 IMU.
 
-<img src="/media/2021-performance-setup.jpeg" width="500">
-<img src="/media/2021-prototype.jpeg" width="300">
+<img src="/media/2021-performance-setup.jpeg" width="475"><img src="/media/2021-prototype.jpeg" width="300">
